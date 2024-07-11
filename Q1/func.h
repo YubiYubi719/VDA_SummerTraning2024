@@ -23,8 +23,8 @@ vector<string> parser(string filename){
     return result;
 }
 
-void print(vector<vector<string>> strs){
-    ofstream output("test.txt");
+void print(vector<vector<string>> strs, string filename){
+    ofstream output(filename);
     for(vector<string> volcs:strs){
         if(volcs[0] == "") output << "empty line.";
         for(string volc:volcs){
