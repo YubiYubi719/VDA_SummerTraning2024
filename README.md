@@ -31,7 +31,7 @@ $ make run  # Use make run to run specific testcase, remember to change variable
 ```
 
 ## Verifier
-You can use *verifier* to check whether your answer is corrent
+You can use *verifier* to check a specific pattern to make sure whether your answer is correct.
 ```makefile
 $ make check # Use make check to check specific testcase, remember to change variable *CASE* inside Makefile
 ```
@@ -101,7 +101,7 @@ $ make run  # Use make run to run specific testcase, remember to change variable
 ```
 
 ## Verifier
-You can use *verifier* to check whether your answer is corrent
+You can use *verifier* to check a specific pattern to make sure whether your answer is correct.
 ```makefile
 $ make check # Use make check to check specific testcase, remember to change variable *CASE* inside Makefile
 ```
