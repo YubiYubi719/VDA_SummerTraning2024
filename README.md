@@ -21,7 +21,7 @@ Example 3:
 
 ## What You Should Do
 
-Please finish your code inside the file Q1.cpp. After finishing, you can use following command to check your answer.
+Please finish your code inside the file Q1.cpp. After finishing, you can use following commands to check your answer.
 
 ## Execution
 
@@ -91,7 +91,7 @@ Example 2:
 
 ## What You Should Do
 
-Please finish your code inside the file Q2.cpp. After finishing, you can use following command to check your answer.
+Please finish your code inside the file Q2.cpp. After finishing, you can use following commands to check your answer.
 
 ## Execution
 
