@@ -27,11 +27,18 @@ Please finish your code inside the file Q1.cpp. After finishing, you can use fol
 
 ```makefile
 $ make
-$ make run  # Equivalent to ./Q1 [inputfile Name] [outputfile Name]
+$ make run  # Use make run to run specific testcase, remember to change variable *CASE* inside Makefile
 ```
 
 ## Verifier
 You can use *verifier* to check whether your answer is corrent
 ```makefile
-$ make check
+$ make check # Use make check to check specific testcase, remember to change variable *CASE* inside Makefile
+```
+
+## AutoChecker
+After finish coding, you can also use 01_autoCheck.sh to test all the patterns.
+
+```makefile
+$ ./01_autoCheck
 ```
