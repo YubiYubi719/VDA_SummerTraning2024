@@ -24,4 +24,6 @@ for((i = 1; i <= ${PATNUM}; i = i+1)) do
     fi
 done
 
+echo -e "\033[0;32mCongratulation!! You have passed all patterns. "
+
 rm -f make.log
