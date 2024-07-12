@@ -4,3 +4,5 @@ Q1/main
 Q2/verifier.cpp
 Q2/checkResult
 Q2/outputResult
+Q2/testcase/caseGen.cpp
+Q2/testcase/input.txt
