@@ -108,6 +108,7 @@ $ make check # Use make check to check specific testcase, remember to change var
 
 ## AutoChecker
 You can also use 01_autoCheck to test all the patterns.
+* Tips: You can change PATNUM inside 01_autoCheck to test different number of pattern.
 
 ```makefile
 $ ./01_autoCheck
