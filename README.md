@@ -37,7 +37,7 @@ $ make check # Use make check to check specific testcase, remember to change var
 ```
 
 ## AutoChecker
-After finish coding, you can also use 01_autoCheck.sh to test all the patterns.
+After finish coding, you can also use 01_autoCheck to test all the patterns.
 
 ```makefile
 $ ./01_autoCheck
@@ -107,7 +107,7 @@ $ make check # Use make check to check specific testcase, remember to change var
 ```
 
 ## AutoChecker
-After finish coding, you can also use 01_autoCheck.sh to test all the patterns.
+After finish coding, you can also use 01_autoCheck to test all the patterns.
 
 ```makefile
 $ ./01_autoCheck
