@@ -22,6 +22,7 @@ Example 3:
 ## What You Should Do
 
 Please finish your code inside the file Q1.cpp. After finishing, you can use following command to check your answer.
+We provide some functions inside *func.h*, please use *parser* function to read file and use *print* function to output the answer.
 
 ## Execution
 
