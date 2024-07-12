@@ -1,3 +1,6 @@
+// ***************************************
+// *      DO NOT MODIFY THIS FILE!!!     *
+// ***************************************
 #ifndef FUNC_H
 #define FUNC_H
 #include <iostream>
