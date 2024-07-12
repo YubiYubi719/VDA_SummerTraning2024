@@ -19,6 +19,7 @@ vector<string> parser(string filename){
         }
         result.push_back(s);
     }
+    input.close();
 
     return result;
 }
@@ -32,6 +33,7 @@ void print(vector<vector<string>> strs, string filename){
         }
         output << '\n';
     }
+    output.close();
 }
 
 #endif

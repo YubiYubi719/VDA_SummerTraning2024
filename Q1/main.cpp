@@ -10,8 +10,8 @@ vector<vector<string>> groupAnagrams(vector<string>& strs) {
 
 
 int main(int argc, char* argv[]){
-    vector<string> vocabularyies = parser(argv[1]);
-    print(groupAnagrams(vocabularyies), argv[2]);
+    vector<string> vocabulary = parser(argv[1]);
+    print(groupAnagrams(vocabulary), argv[2]);
 
     return 0;
 }

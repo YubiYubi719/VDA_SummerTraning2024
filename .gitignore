@@ -1,3 +1,6 @@
 .vscode
 Q1_verifier
 Q1/main
+Q2/verifier.cpp
+Q2/checkResult
+Q2/outputResult
