@@ -11,4 +11,4 @@ check:
 	./verifier $(TESTDIR)/$(CASE).in $(TESTDIR)/$(CASE).out
 
 clean:
-	rm -f Q2
+	rm -f Q2 testcase/$(CASE).out
